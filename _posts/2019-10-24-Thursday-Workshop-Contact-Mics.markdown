@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thursday workshop: Contact Mics"
-date: 2019-24-12 19:28:00 +00:00
+date: 2019-10-24 19:28:00 +00:00
 categories: MPP film
 permalink: /:categories/:day/:month/:year/:title.html
 ---
