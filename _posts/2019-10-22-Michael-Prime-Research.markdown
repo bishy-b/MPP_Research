@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Michael Prime- Plant Music Research
+title: "Michael Prime- Plant Music Research"
 date: 2019-10-22 13:14:00 +00:00
 categories: MPP soundsystem
 permalink: /:categories/:day/:month/:year/:title.html
